@@ -37,7 +37,7 @@
    python3 wrapper.py
    ```
 
-## Enable Autostart on Login  
+## Enable Autostart on Login (Linux Users)
 
 1. Open a terminal and run:  
    ```bash
