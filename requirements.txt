@@ -1,0 +1,3 @@
+git+https://github.com/NextChai/tixte.py
+watchdog
+pyperclip
